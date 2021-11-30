@@ -2,12 +2,12 @@
     "name": "jelly-gummy",
     "displayName": "Jelly Gummy",
     "description": "A yummy VS Code theme.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "jellyie",
     "repository": {
         "type": "git",
         "url": "https://github.com/jellyie/jelly_gummy.git"
-      },    
+    },
     "engines": {
         "vscode": "^1.62.0"
     },
