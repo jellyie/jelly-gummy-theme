@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "jelly-gummy" extension will be documented in this file.
+## 1.1.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Update readme and add preview images.
 
-## [Unreleased]
+## 1.0.0 
 
-- Initial release
+- Initial release.
