@@ -4,7 +4,7 @@
     "description": "A yummy VS Code theme.",
     "version": "1.7.0",
     "publisher": "jellyie",
-    "icons": "images/logo.png",
+    "icon": "images/logo.png",
     "license": "MIT",
     "homepage": "https://github.com/jellyie/jelly-gummy-theme",
     "repository": {
