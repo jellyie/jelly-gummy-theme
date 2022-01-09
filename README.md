@@ -1,5 +1,7 @@
 # Jelly Gummy Theme for [Visual Studio Code](http://code.visualstudio.com) 
 
+![](images/logo.png)
+
 > A yummy VS Code theme with soft colors for your precious eyes.
 
 ## Preview
